@@ -32,3 +32,10 @@
     - 国土地理院 [用語集](https://www.gsi.go.jp/common/000213880.pdf)
     - 株式会社PASCO [用語集とGISの使い方](https://www.pasco.co.jp/recommend/word/)
     - 株式会社Informatics [GIS用語解説](https://club.informatix.co.jp/?page_id=1691)
+
+---
+- Amazon Location Service
+  - Use Cases
+    -  1.ユーザーエンゲージメントとジオマーケティング＝小売業者が対象店舗の近くにいる顧客に割引コードやデジタルチラシを送信。
+    -  2. 資産管理＝製品、人員、インフラの現在および過去の場所を特定。配置を最適化、輸送中貨物を安全に保護、発送効率最大化。
+    -  3. 配達 ＝出発地、配達車両、目的地を保存、追跡、調整する。
