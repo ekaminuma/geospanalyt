@@ -22,6 +22,7 @@
     　　  -　KMZ: level-0, level1, level2
     　　  -　GIDは、3文字のISO 3166-1alpha-3国コードで始まる。
     　　- [World Bank Official Boundaries Primary tabs](https://datacatalog.worldbank.org/dataset/world-bank-official-boundaries)　
+   -　[ArcGis Tutorial - How to create shape files, labels and spatial reference](https://www.youtube.com/watch?v=uhdSGeFaVSo) 
 - References
   - [Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124394) [[Code]](https://bookdown.org/lexcomber/brunsdoncomber2e/)  'An Introduction to Spatial Analysis and Mapping in R', Chris Brunsdon and Lex Comber, 2019-04-16.
 
