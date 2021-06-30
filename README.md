@@ -1,5 +1,12 @@
 # Geospace Analytics
 
+- Cartographic Boundary Files - Shapefile
+ - USA | [Census Bureau’s MAF/TIGER geographic database](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+    -  state-based and national congressional district cartographic boundary files for the 103rd through 110th Congresses,  
+    -  shapefile and KML format.   
+    -  cb_2018_ss_entity_rr.zip (rr=resolution leve ; 500k, 5m, 20m)
+    -  Naton/Regions/Stetes/Urban Areas/ZIP Code Tabulation Areas (ZCTAs)
+ -   
 - References
   - [Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124394) [[Code]](https://bookdown.org/lexcomber/brunsdoncomber2e/)  'An Introduction to Spatial Analysis and Mapping in R', Chris Brunsdon and Lex Comber, 2019-04-16.
 
