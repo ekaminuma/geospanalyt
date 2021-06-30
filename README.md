@@ -9,6 +9,7 @@
  -   [Country Shape Maps (DIVA-GIS)](https://www.diva-gis.org/gdata)
     - 国の行政区域（境界）GADM v1.0より
     - WORLD SHAPEFILE MAPS
+        - [ARCGIS Hub](https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/explore?location=-4.017884%2C0.000000%2C0.85) 
     　　-　[NATURAL EARTH](http://www.naturalearthdata.com/features/)
     　　  -  ESRI shapefile format / UTF-8 / 　TIFF format with a TFW world file /  Geographic coordinate system (projection), WGS84 datum
     　　-　[GADM data](https://gadm.org/data.html) = 386,735 administrative areas. The data are freely available for academic use. 
