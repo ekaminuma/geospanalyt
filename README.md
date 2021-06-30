@@ -9,6 +9,8 @@
  -   [Country Shape Maps (DIVA-GIS)](https://www.diva-gis.org/gdata)
     - 国の行政区域（境界）GADM v1.0より
     - WORLD SHAPEFILE MAPS
+        - [EUROSTAT](https://ec.europa.eu/eurostat/web/nuts/background)  
+          - GISCO - the Geographic Information System of the COmmission - localise, analyse, visualise
         - [ARCGIS Hub](https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/explore?location=-4.017884%2C0.000000%2C0.85) 
     　　-　[NATURAL EARTH](http://www.naturalearthdata.com/features/)
     　　  -  ESRI shapefile format / UTF-8 / 　TIFF format with a TFW world file /  Geographic coordinate system (projection), WGS84 datum
@@ -19,6 +21,7 @@
     　　  -　R (sf): level-0, level1, level2
     　　  -　KMZ: level-0, level1, level2
     　　  -　GIDは、3文字のISO 3166-1alpha-3国コードで始まる。
+    　　- [World Bank Official Boundaries Primary tabs](https://datacatalog.worldbank.org/dataset/world-bank-official-boundaries)　
 - References
   - [Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124394) [[Code]](https://bookdown.org/lexcomber/brunsdoncomber2e/)  'An Introduction to Spatial Analysis and Mapping in R', Chris Brunsdon and Lex Comber, 2019-04-16.
 
