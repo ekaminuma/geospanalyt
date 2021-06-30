@@ -4,10 +4,19 @@
   - [Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124394) [[Code]](https://bookdown.org/lexcomber/brunsdoncomber2e/)  'An Introduction to Spatial Analysis and Mapping in R', Chris Brunsdon and Lex Comber, 2019-04-16.
 
 
+- Python library
+  - geopandas = Pandas to allow spatial operations on geometric types
+  - geoplot = a high-level geospatial plotting library
+  - [
+Visualizing Geospatial Data in Python: Tutorial](https://github.com/DerwenAI/ibm_dsc_articles/blob/master/2020_05/tutorial.ipynb)
 
 
 - Open Data
- - Shape Models
+ - Shape Models = there are so many open data sources for shapefiles.
+   - the US Census Bureau TIGER database
+   - Natural Earth
+   - ESRI: ArcGIS Living Atlas
+   - NOAA Weather Data 
 
 
 
