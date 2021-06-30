@@ -6,7 +6,18 @@
     -  shapefile and KML format.   
     -  cb_2018_ss_entity_rr.zip (rr=resolution leve ; 500k, 5m, 20m)
     -  Naton/Regions/Stetes/Urban Areas/ZIP Code Tabulation Areas (ZCTAs)
- -   
+ -   [Country Shape Maps (DIVA-GIS)](https://www.diva-gis.org/gdata)
+    - 国の行政区域（境界）GADM v1.0より
+    - WORLD SHAPEFILE MAPS
+    　　-　[NATURAL EARTH](http://www.naturalearthdata.com/features/)
+    　　  -  ESRI shapefile format / UTF-8 / 　TIFF format with a TFW world file /  Geographic coordinate system (projection), WGS84 datum
+    　　-　[GADM data](https://gadm.org/data.html) = 386,735 administrative areas. The data are freely available for academic use. 
+    　　  -　Geopackage
+    　　  -　Shapefile
+    　　  -　R (sp): level-0, level1, level2
+    　　  -　R (sf): level-0, level1, level2
+    　　  -　KMZ: level-0, level1, level2
+    　　  -　GIDは、3文字のISO 3166-1alpha-3国コードで始まる。
 - References
   - [Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124394) [[Code]](https://bookdown.org/lexcomber/brunsdoncomber2e/)  'An Introduction to Spatial Analysis and Mapping in R', Chris Brunsdon and Lex Comber, 2019-04-16.
 
