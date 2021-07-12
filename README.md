@@ -1,5 +1,15 @@
 # Geospace Analytics
 
+- [地理空間作業の開始](https://towardsdatascience.com/getting-started-with-geospatial-works-1f7b47955438)
+  - 地理空間データとは何ですか？
+  - GISデータの種類 (ベクターデータ, ポイントデータ, ラインデータ, ポリゴンデータ)
+  - ベクターデータのフォーマット (Esri SHAPE, 地理JSON, Geography Markup Language(GML),Google Keyhole Markup Language)
+  - ラスターデータ(GeoTIFF, ERDAS Imagine, IDRISIラスター)
+  - データソース(Esriオープンデータ, 自然地球データ, USGD Earth Explorer,NASAの社会経済データおよびアプリケーションセンター,UNEP環境データエクスプローラー,DIVA-GIS)
+  - 視覚化ツール
+   　- パッケージ (Geoplot, Folium, Geopandas, PySAL, rworldmapとrworldxtraR)
+   　- オープンソースソフトウェア(PostGIS, QGIS, GrassGIS, Kepler.gl(Deck/Luma/React map/React vis))
+  
 - Cartographic Boundary Files - Shapefile
  - USA | [Census Bureau’s MAF/TIGER geographic database](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
     -  state-based and national congressional district cartographic boundary files for the 103rd through 110th Congresses,  
